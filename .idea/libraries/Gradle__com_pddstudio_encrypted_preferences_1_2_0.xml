@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pddstudio:encrypted-preferences-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/encrypted-preferences/1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/encrypted-preferences/1.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pddstudio/encrypted-preferences/1.2.0/600e6c7bda36096cd2ff2f7c6e2d9eeeddb906af/encrypted-preferences-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

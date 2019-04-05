@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\android.arch.core\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\android.arch.core-runtime-1.1.0_b3f7ee5d3472adae75de004500d77b8938d955d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\android.arch.lifecycle\viewmodel\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-viewmodel-1.1.0_45ae9d4a4c4a30395a3bcb6c27d56ca9500aeefc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.1.1_28080852dd1b617707581daca0a48200801ec1ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ogrenci\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_9a47dff53abac637faf1e1423a8ef1fad547442c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\android.arch.lifecycle\livedata-core\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-livedata-core-1.1.0_c890f544d6ed35810f2fceb49098118b3b95c7b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.pddstudio\encrypted-preferences\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5fc905bfe003d23f3c9b503acf27722e9ee525b0">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.pddstudio-encrypted-preferences-1.2.0_f93496c038b31ab3b609f873634cb10b24855af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ogrenci\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\common-1.1.0_8297273bea1c0d286109e95cf7b3f226354938f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.1.1_102d3fdf166eb995cf1d07fe33cee52422aedb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.1.1_352ed87a600f67bcd4769c0c98e9cb1fc5232ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.scottyab\aescrypt\0.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.scottyab-aescrypt-0.0.1_9f48517af60c57ad47e8e1d14d70337d501aa3ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ogrenci\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\common-1.1.0_c90cb688d6b1c23331bee5f72af2f4cd65ba7679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.1.1_074a88c11cc5141f54911ec8a4c467df3f7b3319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.1.1_ae75c75359e4e96d2960c029b9d768d33440868c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.1.1_8dffed66366c5b359fe2e92718006dde0fc5e04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.1.1_2093aaa1bc7329e81de804ecad585d8ea5ce3e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\dev\android\workspace\NgdroidApp\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.1.0_77a2fbbefb1454da08f2aae4a06dd4571cfb69fd.jar" />
+    </item>
+
+</items>
